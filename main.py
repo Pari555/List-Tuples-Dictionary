@@ -35,3 +35,10 @@ teacher["height"] = "5'2"
 
 print(teacher)
 print(teacher["favorite fruit"])
+
+students = {
+  "visham" : "029138",
+  "jake" : "123984",
+  "ben" : "848592"
+}
+print(students["visham"])

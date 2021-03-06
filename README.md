@@ -40,4 +40,8 @@ Another type of list that stores data/values inside curly brackets, { }. Similar
 ```python
 students = {
   "visham" : "029138",
-  "
+  "jake" : "123984",
+  "ben" : "848592"
+}
+print(students{"visham"})
+```
